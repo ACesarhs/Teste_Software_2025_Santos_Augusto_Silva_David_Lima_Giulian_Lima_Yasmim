@@ -76,7 +76,7 @@ A proposta foi:
 
 ## 🎥 Apresentação em Vídeo
 
-📁 O vídeo foi disponibilizado separadamente no Google Classroom, e através do link: 
+📁 O vídeo foi disponibilizado separadamente no YouTube através do link:  https://youtu.be/lF64R3sVTXM
 
 ---
 
