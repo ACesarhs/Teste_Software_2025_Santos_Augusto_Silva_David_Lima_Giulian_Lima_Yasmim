@@ -48,15 +48,16 @@ A proposta foi:
 ├── Program.cs (opcional para testes manuais)
 ├── TesteMoq.csproj
 └── README.md
-
+```
 
 ## ✅ Como Executar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/Teste_Software_2025_Santos_Augusto.git
-````
 
+```
+```
 2. Acesse o diretório do projeto:
 
    ```bash
