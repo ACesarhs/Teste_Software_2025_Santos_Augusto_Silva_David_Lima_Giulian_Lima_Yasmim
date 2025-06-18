@@ -54,14 +54,14 @@ A proposta foi:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/Teste_Software_2025_Santos_Augusto.git
+   git clone https://github.com/seuusuario/Teste_Software_2025_Santos_Augusto_Silva_David_Lima_Giulian_Lima_Yasmim.git
 
 ```
 ```
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd Teste_Software_2025_Santos_Augusto
+   cd Teste_Software_2025_Santos_Augusto_Silva_David_Lima_Giulian_Lima_Yasmim
    ```
 
 3. Execute os testes com o .NET CLI:
