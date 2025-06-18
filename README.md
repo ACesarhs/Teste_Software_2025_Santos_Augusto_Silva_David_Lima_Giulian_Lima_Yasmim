@@ -48,3 +48,48 @@ A proposta foi:
 ├── Program.cs (opcional para testes manuais)
 ├── TesteMoq.csproj
 └── README.md
+
+
+## ✅ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/Teste_Software_2025_Santos_Augusto.git
+````
+
+2. Acesse o diretório do projeto:
+
+   ```bash
+   cd Teste_Software_2025_Santos_Augusto
+   ```
+
+3. Execute os testes com o .NET CLI:
+
+   ```bash
+   dotnet test
+   ```
+
+> 💡 Certifique-se de ter o [.NET 6 SDK ou superior](https://dotnet.microsoft.com/en-us/download) instalado.
+
+---
+
+## 🎥 Apresentação em Vídeo
+
+📁 O vídeo foi disponibilizado separadamente no Google Classroom, e através do link: 
+
+---
+
+## 📄 PDF do Tutorial
+
+📁 Arquivo disponível no Google Classroom.
+
+---
+
+## 👨‍👩‍👧‍👦 Integrantes da Equipe
+
+* **Augusto César Honorato dos Santos**
+* **David Fontes Silva**
+* **Giulian Fábio Bastos Amorim Lima**
+* **Yasmim de Andrade Lima**
+
+
