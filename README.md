@@ -37,19 +37,6 @@ A proposta foi:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```bash
-/TesteMoq
-├── Interfaces/
-│   └── IMyService.cs
-├── Tests/
-│   └── MyServiceTests.cs
-├── Program.cs (opcional para testes manuais)
-├── TesteMoq.csproj
-└── README.md
-```
-
 ## ✅ Como Executar
 
 1. Clone o repositório:
@@ -67,6 +54,7 @@ A proposta foi:
 3. Execute os testes com o .NET CLI:
 
    ```bash
+   dotnet restore
    dotnet test
    ```
 
